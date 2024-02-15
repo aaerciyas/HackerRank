@@ -283,3 +283,4 @@ Solutions to some problems on Hackerrank.
 | 8 | Easy | [Buttons container](https://www.hackerrank.com/challenges/js10-buttons-container) | [buttonsGrid.js](TUTORIALS/Javascript/buttonsGrid.js)
 | 9 | Medium | [Binary calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | [binaryCalculator.js](TUTORIALS/Javascript/binaryCalculator.js)
 
+ 
